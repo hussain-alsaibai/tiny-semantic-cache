@@ -3,8 +3,8 @@
 > **Embedding-based semantic cache for LLM responses.**  
 > Dramatically higher cache hit rates by matching semantically similar prompts, not just exact strings.
 
-[![PyPI version](https://img.shields.io/pypi/v/tiny-semantic-cache.svg)](https://pypi.org/project/tiny-semantic-cache/)
-[![Python](https://img.shields.io/pypi/pyversions/tiny-semantic-cache.svg)](https://pypi.org/project/tiny-semantic-cache/)
+[![Install from GitHub](https://img.shields.io/badge/install-git%2Bhttps-blue)](https://github.com/hussain-alsaibai/tiny-semantic-cache#install)
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://github.com/hussain-alsaibai/tiny-semantic-cache#install)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Why?
