@@ -25,9 +25,8 @@ keywords = ["cache", "llm", "embedding", "semantic", "ai", "vector"]
 [project.optional-dependencies]
 dev = ["pytest", "pytest-cov"]
 
-[tool.setuptools.packages.find]
-where = ["."]
-include = ["tiny_semantic_cache*"]
+[tool.setuptools]
+py-modules = ["tiny_semantic_cache"]
 
 [tool.pytest.ini_options]
 testpaths = ["test_*.py"]
