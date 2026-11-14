@@ -34,7 +34,8 @@ Traditional caches use exact string matching. But LLM prompts come in infinite v
 ## Installation
 
 ```bash
-pip install tiny-semantic-cache
+# From GitHub (recommended -- not yet on PyPI)
+pip install git+https://github.com/hussain-alsaibai/tiny-semantic-cache.git
 ```
 
 ## Quick Start
